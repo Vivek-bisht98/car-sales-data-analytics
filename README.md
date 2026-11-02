@@ -136,7 +136,7 @@ The dashboard can be used to identify:
 
 ### Details
 
-![Car Sales Details](Screenshot/Detail.jpeg)
+![Car Sales Details](Screenshot/Details.jpeg)
 
 ---
 
