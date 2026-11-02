@@ -132,12 +132,11 @@ The dashboard can be used to identify:
 
 ### Dashboard
 
-![Car Sales Dashboard](Screenshot/Overview.png)
+![Car Sales Dashboard](Screenshot/Overview.jpeg)
 
 ### Details
 
-![Car Sales Details](Screenshot/Detail
-.png)
+![Car Sales Details](Screenshot/Detail.jpeg)
 
 ---
 
